@@ -1,0 +1,4 @@
+repository "SocialNetworkSimulation/SocialNetworkSimulation@20067576686649@cloud"
+  path "/"
+    br "/main"
+    co "/main"
