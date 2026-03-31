@@ -54,7 +54,8 @@ The system produces emergent behavior such as clustering, competition, and shift
 
 ```bash
 
-git clone https://github.com/pyromakesmusic/SocialNetworkSimulation.git```
+git clone https://github.com/pyromakesmusic/SocialNetworkSimulation.git
+```
 
 2. Open the project in Unity Hub
 
